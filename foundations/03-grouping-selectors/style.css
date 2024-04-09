@@ -1,0 +1,15 @@
+.here {
+    background-color: black;
+    color: white;
+    font-weight:bold;
+}
+
+.there {
+    background-color: yellow;
+}
+
+.here,
+.there {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
